@@ -1,0 +1,9 @@
+﻿  Apple.cpp
+  Player.cpp
+  program.cpp
+  Region.cpp
+  Snake.cpp
+G:\work\college\c++\D03\SnakeGame\Snake.cpp(18,36): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  SnakeGame.cpp
+  Generating Code...
+  SnakeGame.vcxproj -> G:\work\college\c++\D03\x64\Debug\SnakeGame.exe
